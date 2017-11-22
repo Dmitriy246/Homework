@@ -1,0 +1,10 @@
+#!/bin/bash
+
+for file in *
+do 
+   ls -l "$file"
+
+done
+
+
+
